@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1556552688 source:c:\users\user\desktop\cce2022 4th\data\lab 4\binary search tree\error test 2\main.c
+	<string.h>
+	<stdio.h>
+	<stdlib.h>
+
